@@ -1,0 +1,6 @@
+namespace ReadWebSiteCounter.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
